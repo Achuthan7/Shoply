@@ -1,6 +1,6 @@
 # shoply
 
-A new Flutter project.
+Shoply is an E-commerce based app UI made using flutter
 
 ## Getting Started
 
